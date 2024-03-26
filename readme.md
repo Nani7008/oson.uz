@@ -49,8 +49,8 @@
 
                     FOOTER
 
-
-                    <pre><code>
+<pre><code>
+          
                     &lt;footer class="bg-[#1A1A92]"&gt;
   &lt;div class="container mx-auto w-max:[1398px]"&gt;
     &lt;div class="wrapper pt-[41px] flex gap-x-[208px]"&gt;

@@ -50,7 +50,8 @@
                     FOOTER
 
 
-                    <pre><code>&lt;footer class="bg-[#1A1A92]"&gt;
+                    <pre><code>
+                    &lt;footer class="bg-[#1A1A92]"&gt;
   &lt;div class="container mx-auto w-max:[1398px]"&gt;
     &lt;div class="wrapper pt-[41px] flex gap-x-[208px]"&gt;
       &lt;div class="flex gap-[199px] h-[155px] items-center"&gt;
@@ -137,3 +138,4 @@
         &lt;p class="font-normal text-3 leading-[15px] text-white"&gt;
           Designer by: OGABEK YUSUF
         &lt
+</code></pre>
